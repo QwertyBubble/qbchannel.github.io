@@ -7,12 +7,12 @@ nav_order: 1
 # Threat Report ATT&CK Mapping
 
 
-What: #report
-Where: #conference ATT&CKcon 2.0
-Who: #mitre
-When: 29/10/2019
+What: #report\
+Where: #conference ATT&CKcon 2.0\
+Who: #mitre\
+When: 29/10/2019\
 How: [video]
-{: .fs-5 .ls-10 .text-mono .code-example }
+{: .fs-4 .ls-10 .text-mono .code-example }
 
 На календаре две тысячи девятнадцатый. В России год театра, в Казахстане год молодёжи, а в Узбекистане год Казахстана. 
 На конференции ATT&CKcon 2.0 коллеги из MITRE представили миру платформу TRAM (Threat Report ATT&CK Mapping). Идея заключается в том, чтобы считывать данные из отчётов, загруженных ссылкой, либо файлом в платформу и мапить их на матрицу ATT&CK. В докладе подсвечивают ключевые проблемы при ручном анализе подобных отчётов:
