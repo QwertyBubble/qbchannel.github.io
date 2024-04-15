@@ -6,13 +6,12 @@ nav_order: 1
 ---
 # Аналитическая платформа [SnapAttack]
 
-__________________________
 What: #report\
 Where: #conference ATT&CKcon 3.0\
 Who: #snapattack\
 When: 30/03/2022\
 How: [video]
-{: .fs-4 .ls-10 .text-mono .code-example }
+{: .fs-3 .ls-10 .text-mono .code-example }
 
 Коллеги из SnapAttack разработали аналитическую платформу, работающую на стыке кейсов [Red Canary] (Red Team) и детектирующих [сигм] (Blue Team). 
 Функциональность платформы становится доступной после прохождения регистрации (высылают линк с подтверждением на почту).
