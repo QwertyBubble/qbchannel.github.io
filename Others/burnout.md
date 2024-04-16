@@ -6,10 +6,10 @@ nav_order: 4
 ---
 # Let's Talk About Burnout
 
-What: #report
-Where: #conference BHUSA'22
-Who: Stacy Thayer
-When: 10/08/2022
+What: #report\
+Where: #conference BHUSA'22\
+Who: Stacy Thayer\
+When: 10/08/2022\
 How: [slides]
 {: .fs-3 .ls-10 .text-mono .code-example }
 

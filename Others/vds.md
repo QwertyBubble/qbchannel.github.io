@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Protect VDS
 
-What: #notes\
+What: #notes
 {: .fs-3 .ls-10 .text-mono .code-example }
 
 Заметка про то, как обезопасить выделенный сервер.

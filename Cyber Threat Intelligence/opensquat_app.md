@@ -6,7 +6,7 @@ nav_order: 2
 ---
 # Phish App Concept
 
-What: #notes\
+What: #notes
 {: .fs-3 .ls-10 .text-mono .code-example }
 
 А помните был такой OpenSquat?
