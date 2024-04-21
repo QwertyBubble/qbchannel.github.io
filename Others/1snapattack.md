@@ -4,7 +4,7 @@ title: SnapAttack Platform
 parent: Other
 nav_order: 1
 ---
-# Аналитическая платформа [SnapAttack]
+# Аналитическая платформа SnapAttack
 
 What: #report\
 Where: #conference ATT&CKcon 3.0\
